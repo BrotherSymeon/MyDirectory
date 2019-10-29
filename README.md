@@ -1,2 +1,0 @@
-# MyDirectory
-Created with CodeSandbox
